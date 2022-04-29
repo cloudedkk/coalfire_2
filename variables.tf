@@ -6,9 +6,9 @@
 # }
 
 # variable "access_key" {
-#   default = "AKIAR7RJBCLJT4BLJO6M"
+#   default = ""
 # }
 
 #  variable "secret_key" {
-#   default = "RUmyKO4NGXuUjRIeLBK9nsZ7uQU7J9SFFEb9I+JF"
+#   default = ""
 # }
